@@ -1,0 +1,30 @@
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+th {
+  text-align: left;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #64748b;
+  padding-bottom: 0.75rem;
+}
+
+td {
+  padding: 0.85rem 0;
+  border-top: 1px solid rgba(148, 163, 184, 0.25);
+  color: #0f172a;
+}
+
+tr:first-child td {
+  border-top: none;
+}
+
+.empty {
+  padding: 2rem;
+  color: #64748b;
+  text-align: center;
+}

@@ -1,0 +1,24 @@
+{
+  "logo": {
+    "activeVersion": 1,
+    "versions": [
+      {
+        "version": 1,
+        "fileName": "logo-inicial.svg",
+        "uploadedAt": "2024-06-01T08:00:00Z",
+        "path": "/branding/default-logo.svg"
+      }
+    ]
+  },
+  "banner": {
+    "activeVersion": 1,
+    "versions": [
+      {
+        "version": 1,
+        "fileName": "banner-inicial.svg",
+        "uploadedAt": "2024-06-01T08:00:00Z",
+        "path": "/branding/default-banner.svg"
+      }
+    ]
+  }
+}

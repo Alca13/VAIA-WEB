@@ -1,0 +1,16 @@
+<svg width="900" height="280" viewBox="0 0 900 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="900" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1D4ED8" />
+      <stop offset="1" stop-color="#38BDF8" />
+    </linearGradient>
+    <pattern id="dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="3" fill="rgba(255,255,255,0.18)" />
+    </pattern>
+  </defs>
+  <rect width="900" height="280" rx="36" fill="url(#grad)"/>
+  <rect x="440" y="40" width="420" height="200" rx="28" fill="rgba(15,23,42,0.2)"/>
+  <rect x="40" y="40" width="360" height="200" rx="28" fill="url(#dots)"/>
+  <text x="80" y="110" fill="white" font-family="'Inter', sans-serif" font-size="46" font-weight="700">Impulsa tus decisiones</text>
+  <text x="80" y="158" fill="white" font-family="'Inter', sans-serif" font-size="24" font-weight="400" opacity="0.85">Panel ejecutivo VAIA</text>
+</svg>

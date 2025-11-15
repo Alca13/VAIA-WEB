@@ -1,0 +1,38 @@
+[
+  {
+    "id": "AUD-0001",
+    "timestamp": "2024-06-05T09:05:34Z",
+    "actor": "ana.lopez@example.com",
+    "action": "Inicio de sesión",
+    "context": "Panel de reportes",
+    "ip": "192.168.10.24",
+    "critical": false
+  },
+  {
+    "id": "AUD-0002",
+    "timestamp": "2024-06-05T09:08:12Z",
+    "actor": "ana.lopez@example.com",
+    "action": "Descarga de reporte",
+    "context": "RPT-2024-001",
+    "ip": "192.168.10.24",
+    "critical": false
+  },
+  {
+    "id": "AUD-0003",
+    "timestamp": "2024-06-05T09:15:47Z",
+    "actor": "julian.ortiz@example.com",
+    "action": "Cambio de permisos",
+    "context": "USR-002",
+    "ip": "192.168.11.45",
+    "critical": true
+  },
+  {
+    "id": "AUD-0004",
+    "timestamp": "2024-06-05T10:01:03Z",
+    "actor": "carlos.perez@example.com",
+    "action": "Intento de acceso",
+    "context": "Restricción geográfica",
+    "ip": "187.45.12.67",
+    "critical": true
+  }
+]
